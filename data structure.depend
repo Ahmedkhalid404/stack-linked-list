@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667581061 source:a:\revision\data structure\data structure.c
+	<stdio.h>
+	<stdlib.h>
+	"data structure.h"
+
+1667581061 a:\revision\data structure\data structure.h
+
+1667581074 source:a:\revision\data structure\main.c
+	<stdio.h>
+	<stdlib.h>
+	"data structure.h"
+
